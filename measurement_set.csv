@@ -1,0 +1,24 @@
+meas_id;measurement
+0;m019_eggwhite_50C_bd
+1;m020_eggwhite_53C_bd
+2;m021_eggwhite_57C_bd
+3;m023_eggwhite_60C_bd
+4;m025_eggwhite_63C_bd
+5;m026_eggwhite_65C_bd
+6;m028_eggwhite_68C_bd
+7;m029_eggwhite_70C_bd
+8;m051_eggwhite_73C_bd
+9;m060_eggwhite_75C_bd
+10;m050_eggwhite_78C_bd
+11;m046_eggwhite_80C_bd
+12;m059_eggwhite_85C_bd
+13;m022_eggwhite_57C_cycling
+14;m024_eggwhite_60C_cycling
+15;m027_eggwhite_65C_cycling
+16;m049_eggwhite_65C_standing
+17;m030_eggwhite_70C_standing
+18;m031_eggwhite_70C_cycling
+19;m061_eggwhite_75C_cycling
+20;m062_eggwhite_75C_standing
+21;m057_eggwhite_80C_cycling
+22;m058_eggwhite 80C_standing
